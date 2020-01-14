@@ -53,7 +53,9 @@
 
 ## 프로젝트 이력
 
-<img src='./images/ridibooks.png' width="80" />
+<img width="80" alt="KakaoTalk_Photo_2020-01-15-07-32-00" src="https://user-images.githubusercontent.com/34432988/72388394-292b0380-3769-11ea-8929-f35f18e24c6c.png"/>
+
+
 
 ### 세종학당 세종한국어 중급 1,2
 - 소개: 1등 전자책 서비스
@@ -67,7 +69,12 @@
 
 <img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
 
+
+
+
 ## 개인 프로젝트 
+
+<img width="80" alt="KakaoTalk_Photo_2020-01-15-07-32-07" src="https://user-images.githubusercontent.com/34432988/72388396-2a5c3080-3769-11ea-9ae5-209a1d372a89.png"/>
 
 ### 헤이딜러
 - 소개: 경매로 내차팔기 서비스
