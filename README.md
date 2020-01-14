@@ -3,37 +3,21 @@
 
 
 # 이력서
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![HitCount](http://hits.dwyl.io/JSpiner/RESUME.svg)](http://hits.dwyl.io/JSpiner/RESUME)
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
-![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
-[한국어](./README.md) [English](./README_en.md)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
-- 이름: 정성민
-- 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
+![프로필이미지](https://user-images.githubusercontent.com/34432988/72317463-becc8180-36dc-11ea-8043-8874e7f3ec13.png)
 
-클린코더에 나온 말처럼, **창의적인 출력은 창의적인 입력에서 나온다**고 생각합니다. <br/>
-색다르고 다양한 것들을 해보고 있습니다.
+- 이름: 김종찬
+- 군필여부: 해병대 보병 만기전역
 
-- 취미: 자전거, **해커톤**, 칵테일, 사격, 등산, **카페코딩**, 피아노, 달리기, 여행
-- Email: jspiner@naver.com
-- GitHub: [github.com/jspiner](https://github.com/jspiner)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
-```
-주석으로 코드를 설명하는걸 지양하고, 
-코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
-```
-
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+- Email: kimdaeman14@gmail.com
+- GitHub: [github.com/kimdaeman14](https://github.com/kimdaeman14)
+- LinkedIn: [linkedin.com/in/kimdaeman14](https://linkedin.com/in/kimdaeman14)
 
 ## 회사경력
-- 프리랜서(2014 ~ 2016)
-- [헤이딜러] [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- [리디북스] [리디주식회사](https://www.ridicorp.com/)(2018 ~ 현재)
+- [애니링고][(주)디엠에듀](https://apps.apple.com/kr/app/%EC%95%A0%EB%8B%88%EB%A7%81%EA%B3%A0/id1228074316)iOS 개발자 (2018.10 ~) 
+- [동서울신용협동조합] 여수신 출납, 대출담당 사원 (2016.02 ~ 2018.02)
 
 ## 단체경력
 - 삼성소프트웨어멤버십 주니어 1기(2014)
