@@ -14,7 +14,7 @@
 - [동서울신용협동조합] 금융제반업무,대출담당사원 (2016.02 ~ 2018.02)
 
 ## 단체경력
-- [iOS 사당역스터디]() (2019.07 ~ )
+- [iOS 사당역스터디](https://github.com/iO3S/DataStructures-Algorithm) (2019.07 ~ )
 - 패스트캠퍼스 iOS 개발 SCHOOL (2018.05 ~ 2018.09)
 - 패스트캠퍼스 컴퓨터공학 입문 SCHOOL (2018.03 ~ 2018.04)
 
@@ -38,7 +38,7 @@
 - 이슈관리 - Github, SourceTree
 - 디자인 - Zeplin
 - API테스트 - Postman
-- 빌드 - Fastlane
+- 빌드/배포 - Fastlane
 - ...
 
 
