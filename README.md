@@ -55,62 +55,57 @@
 
 <img width="80" alt="KakaoTalk_Photo_2020-01-15-07-32-00" src="https://user-images.githubusercontent.com/34432988/72388394-292b0380-3769-11ea-8929-f35f18e24c6c.png"/>
 
-
-
 ### 세종학당 세종한국어 중급 1,2
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 현재
-
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-
+- 소개: 세종학당재단에서 외주받아 외국인 학습자가 음성인식 기술을 통해 한국어 발음과 대화문을 배울 수 있도록 만든 학습 앱
+- 기간: 중급1 2018.10 ~ 2019.02, 중급2 2019.09 ~ 2019.12
+- 역할: iOS 어플리케이션 85%담당, 신규기능개발, 유지보수 
+- 관련기술: Swift, MVC, AutoLayout, STT(SpeechToText), Codable
+- 라이브러리: Alamofire, Kingfisher, Charts 외
 
 
 ## 개인 프로젝트 
 
 <img width="80" alt="KakaoTalk_Photo_2020-01-15-07-32-07" src="https://user-images.githubusercontent.com/34432988/72388396-2a5c3080-3769-11ea-9ae5-209a1d372a89.png"/>
 
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
+### 콜라주 만들기 
+- 소개: 내 앨범에 있는 사진들을 가지고 콜라주(사진을 오려붙여서 만드는 회화기법)를 만들어주는 앱
+- 기간: 2020.01 ~
+- 역할: iOS 어플리케이션 100%담당(주기적으로 업데이트 진행 중-)
+- 관련기술: Swift, RxSwift, MVVM
+- 라이브러리: RxSwift
+- 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/RxSwift-Collage)에 있습니다.
 
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
+## 오픈소스 기여 
 
-### ZeplinDiff
-- 개인 프로젝트
-- 디자인 협업툴 Zeplin을 사용할때, 도움을 주는 유틸
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/ZeplinDiff)에서 보실 수 있습니다.
 
-### CacheBank
-- 개인 프로젝트
-- rxJava기반 안드로이드 Disk/Memory 캐싱 라이브러리
-- test coverage 83%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/CacheBank)에서 보실 수 있습니다.
+### productSeller 
+- 소개: 프로그래머스에서 진행한 백패커(아이디어스)챌린지 테스트 앱 
+- 기간: 2019.12 ~ 2019.12
+- 역할: iOS 어플리케이션 100%담당
+- 관련기술: Swift, MVC, AutoLayout
+- 라이브러리: Alamofire, SwiftyJSON
+- 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/productSeller)에 있습니다.
 
-### SafeExecutor 
-- 개인 프로젝트
-- event 기반 error handler
-- test coverage 95%
-- 자세한 내용은 [이 github 저장소](https://github.com/JSpiner/SafeExecutor)에서 보실 수 있습니다.
+### RxSwift-EONET 
+- 소개: RxSwift를 기반으로 NASA에서 제공하는 API를 이용한 이벤트를 보여주는 앱  
+- 기간: 2020.01 ~ 2020.01
+- 역할: iOS 어플리케이션 100%담당
+- 관련기술: Swift, RxSwift, MVVM
+- 라이브러리: RxSwift
+- 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/RxSwift-EONET)에 있습니다.
 
-### TedPermission [Contributor]
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
+### SwiftUI-FacebookLayout 
+- 소개: SwiftUI를 이용해서 페이스북 레이아웃 UI를 만들어본 앱 
+- 기간: 2020.01 ~ 2020.01
+- 역할: iOS 어플리케이션 100%담당
+- 관련기술: Swift, SwiftUI
+- 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/SwiftUI-FacebookLayout)에 있습니다.
 
-### RxAndroid [Contributor]
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
+
 
 <br/>
 <br/>
 
 여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 jspiner@naver.com으로 연락주세요.<br/>
+부족한 부분이나 더 궁금하신 내용이 있다면 kimdaeman14@gmail.com으로 연락주세요.<br/>
 감사합니다.
