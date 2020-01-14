@@ -1,8 +1,6 @@
 # 이력서 (RESUME)
 
 ## 소개
-![프로필이미지](https://user-images.githubusercontent.com/34432988/72317463-becc8180-36dc-11ea-8043-8874e7f3ec13.png)
-
 - 이름: 김종찬
 - 군필여부: 해병대 보병 만기전역
 
