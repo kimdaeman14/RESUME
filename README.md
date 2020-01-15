@@ -57,8 +57,18 @@
 - 소개: 세종학당재단에서 외주받아 외국인 학습자가 음성인식 기술을 통해 한국어 발음과 대화문을 배울 수 있도록 만든 학습 앱
 - 기간: 중급1 2018.10 ~ 2019.02, 중급2 2019.09 ~ 2019.12
 - 역할: iOS 어플리케이션 85%담당, 신규기능개발, 유지보수 
-- 관련기술: Swift, MVC, AutoLayout, STT(SpeechToText), Codable
+- 관련기술: Swift, MVC, AutoLayout, STT(SpeechToText), Codable, AVFoundation
 - 라이브러리: Alamofire, Kingfisher, Charts 외
+
+
+### [퀴즈비](https://www.quizvie.com/)
+- 소개: 유투브 동영상이나 일반 동영상을 기반으로 학습자와 상호가능한 교육용 플랫폼 앱 
+- 기간: 2019.12 ~ 개발중
+- 역할: iOS 어플리케이션 55%담당, 신규기능개발, 유지보수 
+- 관련기술: Swift, MVC, AutoLayout, , Codable, AVFoundation
+- 라이브러리: Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 외
+
+
 
 
 ## 개인 프로젝트 
