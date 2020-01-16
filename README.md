@@ -64,7 +64,7 @@
 - 소개: 유투브 동영상이나 일반 동영상을 기반으로 학습자와 상호가능한 교육용 플랫폼 앱 
 - 기간: 2019.12 ~ 개발중
 - 역할: iOS 어플리케이션 55%담당, 신규기능개발, 유지보수 
-- 관련기술: Swift, MVC, AutoLayout, , Codable, AVFoundation
+- 관련기술: Swift, MVC, AutoLayout, Codable, AVFoundation
 - 라이브러리: Alamofire, Kingfisher, youtube-ios-player-helper-swift, SwiftyJSON 외
 
 
