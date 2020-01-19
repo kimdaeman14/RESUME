@@ -89,9 +89,16 @@
 - 소개: 프로그래머스에서 진행한 백패커(아이디어스)챌린지 테스트 앱 
 - 기간: 2019.12 ~ 2019.12
 - 역할: iOS 어플리케이션 100%담당
-- 관련기술: Swift, MVC, AutoLayout
+- 관련기술: Swift, MVC, AutoLayout, Storyboard, xib
 - 라이브러리: Alamofire, SwiftyJSON
 - 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/productSeller)에 있습니다.
+
+### GithubAPI_withSnapkit
+- 소개: GithubAPI를 이용해서 코드만으로 작성해본 간단한 앱
+- 기간: 2020.01 ~ 2020.01
+- 역할: iOS 어플리케이션 100%담당
+- 관련기술: Swift, MVC, OnlyCode, Snapkit, SwiftyJSON, Then, Alamofire, Kingfisher
+- 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/GithubAPI_withSnapkit)에 있습니다.
 
 ### RxSwift-EONET 
 - 소개: RxSwift를 기반으로 NASA에서 제공하는 API를 이용한 이벤트를 보여주는 앱  
