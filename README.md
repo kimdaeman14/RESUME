@@ -82,9 +82,6 @@
 - 라이브러리: RxSwift
 - 자세한 설명은 이 [github 저장소](https://github.com/kimdaeman14/RxSwift-Collage)에 있습니다.
 
-## 오픈소스 기여 
-
-
 ### productSeller 
 - 소개: 프로그래머스에서 진행한 백패커(아이디어스)챌린지 테스트 앱 
 - 기간: 2019.12 ~ 2019.12
